@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraDesconto.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e071fc08791cd040c9bb11da9c7eb3686df1d72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7487f28725e4ad4bb6f194ddc31400b17a52f828")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraDesconto.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraDesconto.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
