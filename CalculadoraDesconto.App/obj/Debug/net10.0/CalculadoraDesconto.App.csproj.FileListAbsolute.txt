@@ -1,0 +1,15 @@
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.exe
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.deps.json
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.runtimeconfig.json
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.dll
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.pdb
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.GeneratedMSBuildEditorConfig.editorconfig
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.AssemblyInfoInputs.cache
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.AssemblyInfo.cs
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.csproj.CoreCompileInputs.cache
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.sourcelink.json
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.dll
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\refint\CalculadoraDesconto.App.dll
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.pdb
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.genruntimeconfig.cache
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\ref\CalculadoraDesconto.App.dll
